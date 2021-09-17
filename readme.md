@@ -1,1 +1,1 @@
-Prueba
+El proyecto sera una aplicacion de ventas
